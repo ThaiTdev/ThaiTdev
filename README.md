@@ -6,7 +6,7 @@
 -->
 
 
-# Hello! moi c'est thierry
+# Hello! moi c'est Thierry
 
 ## 👇 Follow me
 
